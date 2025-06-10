@@ -1,0 +1,2 @@
+npm install      # instala as dependências
+npm run build    # gera os arquivos do site
